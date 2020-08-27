@@ -1,2 +1,5 @@
 # hello-world
-Just another respotory
+
+Hello Humans
+
+Bakri here, I like going gym and coding.
